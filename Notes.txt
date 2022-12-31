@@ -1,0 +1,14 @@
+Used Font: Verdana
+Brand colore: #202c8c or rgb(32,44,140)
+
+
+<i class="fa-brands fa-linkedin"></i>
+<i class="fa-brands fa-square-twitter"></i>
+
+<div class="inner cover" style="  width: 50%;
+        position: fixed;
+        top: 35%;
+        bottom: 10%;
+        height: 50%; ">
+
+        <h3 style="font-family: Verdana; color: white; font-size: 150%;" class="cover-heading"
